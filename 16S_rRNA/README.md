@@ -69,5 +69,4 @@ The full analysis workflow is available in ```scripts/*``` and ```notebooks/16S_
 
 ## Data availability
 
-Raw sequencing data are available in:
-NCBI BioProject: PRJNA1402306
+Raw sequencing data are available in NCBI BioProject: PRJNA1402306
