@@ -1,0 +1,9 @@
+fasta: './GRCh38.primary_assembly.genome.fa'
+gtf: './gencode.v49.primary_assembly.annotation.gtf'
+save_reference: true
+gencode: true
+aligner: star_salmon
+input: './samplesheet.csv'
+outdir: './results'
+
+
