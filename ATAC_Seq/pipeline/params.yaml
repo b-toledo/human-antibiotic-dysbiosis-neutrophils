@@ -1,0 +1,10 @@
+input: './samplesheet.csv'
+outdir: './results_n/'
+fasta: './GRCh38.primary_assembly.genome.fa'
+gtf: './gencode.v49.primary_assembly.annotation.gtf'
+blacklist: './hg38-blacklist.v3.bed'
+save_reference: true
+macs_gsize: 2913022398
+aligner: bowtie2
+mito_name: 'chrM'
+narrow_peak: true
