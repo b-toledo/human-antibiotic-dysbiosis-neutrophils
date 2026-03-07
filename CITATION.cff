@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Short-term antibiotic treatment alters human blood neutrophil activation and gene regulation through microbiota disruption"
+message: "If you use this code, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: Toledo Nunes Pereira
+    given-names: Bruna
+  - family-names: Ramirez Vinolo
+    given-names: Marco Aurélio
+version: 1.0
+date-released: 2026-03-07
+repository-code: https://github.com/Laboratorio-de-Imunoinflamacao-UNICAMP/human-antibiotic-dysbiosis-neutrophils
