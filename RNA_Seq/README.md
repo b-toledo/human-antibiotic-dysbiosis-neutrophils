@@ -87,7 +87,7 @@ Visualization and functional analyses include:
 - DEG clustering
 - transcription factor enrichment
 
-Script: ```scripts/03_deg_visualization_and_enrichment.R```
+Script: ```scripts/03_deg_visualization_and_enrichment.R``` and ```scripts/04_GSEA_heatmap.R```
 
 ## Reproducibility
 
