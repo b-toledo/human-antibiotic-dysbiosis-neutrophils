@@ -109,8 +109,6 @@ Raw sequencing data are available at:
 NCBI Sequence Read Archive
 Accession: PRJNA1402444 and PRJNA1402306
 
-Processed count matrices and intermediate results required to reproduce the analyses are included in this repository where possible.
-
 <br>
 <br>
 
